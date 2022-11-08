@@ -34,7 +34,7 @@
 <a href="https://twitter.com/sidhant_sarthak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sidhant_sarthak" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/sarthak sidhant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sarthak sidhant" height="30" width="40" /></a>
 <a href="https://instagram.com/sarthak_sidhant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarthak_sidhant" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@sarthaksidhant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sarthaksidhant" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@sarthaksidhant" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@sarthaksidhant" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sarthaksidhaulqe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sarthaksidhaulqe" height="30" width="40" /></a>
 <a href="https://discord.gg/PuC28yxTAQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PuC28yxTAQ" height="30" width="40" /></a>
 </p>
@@ -46,4 +46,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarthak-sidhant&show_icons=true&locale=en" alt="sarthak-sidhant" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-sidhant&" alt="sarthak-sidhant" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sarthak-Sidhant&theme=dark&border_radius=3)](https://git.io/streak-stats)
