@@ -45,10 +45,10 @@
 <p align='center'><img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=Sarthak-Sidhant&theme=radical&hide_border=true&border_radius=3.5" alt="sarthak-sidhant" />&nbsp; &nbsp;<img width="400px" src="https://github-readme-stats.vercel.app/api?username=sarthak-sidhant&count_private=true&theme=radical"/>
 
 </p>
-<center>
-<p> <img src="https://komarev.com/ghpvc/?username=sarthak-sidhant&label=Profile%20views&color=181818&style=for-the-badge" alt="sarthak-sidhant" />&nbsp; &nbsp; &nbsp; &nbsp; 
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sarthak-sidhant&label=Profile%20views&color=181818&style=for-the-badge" alt="sarthak-sidhant" />&nbsp; &nbsp; &nbsp; &nbsp; 
 <a href="https://twitter.com/sidhant_sarthak" target="blank"><img src="https://img.shields.io/twitter/follow/sidhant_sarthak?logo=twitter&style=for-the-badge" alt="sidhant_sarthak" /></a>
 </p>
-</center>
+
 <br>
 <h3 align='center'>Show some &nbsp;❤️&nbsp; by starring some of the repositories! </h3> 
