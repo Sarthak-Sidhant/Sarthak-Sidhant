@@ -50,5 +50,4 @@
 <a href="https://twitter.com/sidhant_sarthak" target="blank"><img src="https://img.shields.io/twitter/follow/sidhant_sarthak?logo=twitter&style=for-the-badge" alt="sidhant_sarthak" /></a>
 </p>
 
-<br>
 <h3 align='center'>Show some &nbsp;❤️&nbsp; by starring some of the repositories! </h3> 
