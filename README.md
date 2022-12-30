@@ -50,16 +50,3 @@
 
 <h3 align='center'>Show some &nbsp;❤️&nbsp; by starring some of the repositories! </h3> 
 
-<script>
-      var messages = [
-        "Ruby is hard and nothing changes the fact that it's useless",
-        "Hello! I am an Amateur Programmer, And I hope you have a good day.",
-        "How's Your Day Been? You're A Wonderful Person!",
-        "Python is easy, and If You Can't Learn It, Maybe You're Dumb","Javascript And Java Are Just Two Different Things Sharing The Same Name.","I feel like i've seen you somewhere!","Life's Too Short To Code in Java Man","🤓 public static void main(String[] args) 🤡","imagine defining a class to print hello world",
-        "I wish I was as smart as you, I am not really.","How's Life? Oh Shoot I Forgot You Don't Have Any",
-        "Why You Randomly Viewing this? Was You Persuaded by me?"
-      ];
-      var randomIndex = Math.floor(Math.random() * messages.length);
-      document.getElementById("motd").innerHTML = messages[randomIndex];
-</script>
-
