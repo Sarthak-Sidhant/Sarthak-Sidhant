@@ -53,7 +53,6 @@
 <h3 align='center'>Show some &nbsp;❤️&nbsp; by starring some of the repositories! </h3> 
 
 <script>
-<script>
       var messages = [
         "Ruby is hard and nothing changes the fact that it's useless",
         "Hello! I am an Amateur Programmer, And I hope you have a good day.",
@@ -64,5 +63,5 @@
       ];
       var randomIndex = Math.floor(Math.random() * messages.length);
       document.getElementById("motd").innerHTML = messages[randomIndex];
-    </script>
 </script>
+
