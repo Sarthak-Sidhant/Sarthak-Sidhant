@@ -1,5 +1,5 @@
 <h1 align="center">Hey Everyone! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">I'm Sarthak Sidhant!</h1>
-<h3 align="center" id="motd"></h3>
+<h3 id="motd" align="center"></h3>
 
 ![](https://activity-graph.herokuapp.com/graph?username=Sarthak-Sidhant&theme=react-dark&hide_border=true&area=true)
 
