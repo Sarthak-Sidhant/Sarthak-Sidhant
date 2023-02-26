@@ -2,6 +2,7 @@
 <h3 id="motd" align="center"> The 169th Commit Of 2022. Happy New Year! <3</h3>
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&duration=3000&pause=2000&center=true&width=800&lines=Ruby+is+hard+and+nothing+changes+the+fact+that+it's+useless;Hello!+I+am+an+Amateur+Programmer%2C+And+I+hope+you+have+a+good+day.;How's+Your+Day+Been%3F+You're+A+Wonderful+Person!;Python+is+easy%2C+and+If+You+Can't+Learn+It%2C+Maybe+You're+Dumb;Javascript+And+Java+Are+Just+Two+Different+Things+Sharing+The+Same+Name.;I+feel+like+i've+seen+you+somewhere!;Life's+Too+Short+To+Code+in+Java+Man;%F0%9F%A4%93+public+static+void+main(String%5B%5D+args)+%F0%9F%A4%A1;imagine+defining+a+class+to+print+hello+world;I+wish+I+was+as+smart+as+you%2C+I+am+not+really.;How's+Life%3F+Oh+Shoot+I+Forgot+You+Don't+Have+Any;Why+You+Randomly+Viewing+this%3F+Was+You+Persuaded+by+me%3F" alt="Typing SVG" /></a></div>
  
+[![Github Contribution Graph: ](https://github-readme-activity-graph.cyclic.app/graph?username=Sarthak-Sidhant&theme=react-dark)]()
  <img align="right" height="250px" alt="GIF" src="https://api.daily.dev/devcards/0e0b7af7be26441b8299bd449ee5f8dd.png?r=zbt" padding="5px" />
  
 <p align="left"> 
