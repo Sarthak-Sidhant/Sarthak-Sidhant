@@ -7,7 +7,7 @@
  
 <p align="left"> 
 
-- 🔭 I’m currently working on **Charc, HoomansBOT and Rellekk-Z**
+- 🔭 I’m currently working on **Decodificate, Sidhant Hyperspace and Rellekk-Z**
 
 - 🌱 I’m currently (re)learning **Python, Java, Javascript,PHP**
 
