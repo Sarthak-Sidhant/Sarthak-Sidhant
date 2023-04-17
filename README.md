@@ -6,6 +6,7 @@
  <img align="right" height="250px" alt="GIF" src="https://api.daily.dev/devcards/0e0b7af7be26441b8299bd449ee5f8dd.png?r=zbt" padding="5px" />
  
 <p align="left"> 
+
 - 🔭 I’m currently working on **Charc, HoomansBOT and Rellekk-Z**
 
 - 🌱 I’m currently (re)learning **Python, Java, Javascript,PHP**
