@@ -24,7 +24,11 @@
 - ⚡ Fun fact **There are 48 million kangaroos in Australia and 3,457,380 inhabitants in Uruguay. So if the kangaroo decide to invade Uruguay, each Urugayan will have to fight 14 kangaroos**
 
 ### Blogs posts
+#### All My Blogs are Available at: https://github.com/sarthak-sidhant/blog or https://sarthaksidhant.me/blog/
 <!-- BLOG-POST-LIST:START -->
+- Launching Sidhant Hyperspace - https://sarthaksidhant.me/blog/sidhant-hyperspace
+- My Experiences With Cock n Balls - https://sarthaksidhant.me/blog/my-experiences-with-cock-n-balls
+- Python Advanced Guide For Beginners (v2) - https://sarthaksidhant.me/py
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
