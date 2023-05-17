@@ -25,7 +25,10 @@
 
 ### Blogs posts
 #### All My Blogs are Available at: https://github.com/sarthak-sidhant/blog or https://sarthaksidhant.me/blog/
+ 
+#### My Hashnode Blogs are available at https://blog.sarthaksidhant.me
 <!-- BLOG-POST-LIST:START -->
+- How to Create A Website for free - https://blog.sarthaksidhant.me/webdev
 - Launching Sidhant Hyperspace - https://sarthaksidhant.me/blog/sidhant-hyperspace
 - My Experiences With Cock n Balls - https://sarthaksidhant.me/blog/my-experiences-with-cock-n-balls
 - Python Advanced Guide For Beginners (v2) - https://sarthaksidhant.me/py
