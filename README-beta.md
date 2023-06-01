@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Decodificate, Sidhant Hyperspace and Rellekk-Z<br><br>🌱 I’m currently re-learning Python, Java, Javascript,PHP<br><br>💥 My Open Source Project PANEL, is doing well! Start Contributing!<br><br>🤝 I’m looking for help with Rellekk-Z and Go-Cattle (AI Models and OpenCV)<br><br>👨‍💻 All of my projects are available at sarthak-sidhant.github.io<br><br>💬 Ask me about Python, HTML & CSS<br><br>📫 How to reach me <br>- E-mail: sarthaksidhantisopolice@gmail.com <br>- Discord: Sarthak Sidhant#4374<br><br>⚡ Fun fact: 0.2 + 0.1 = 0.30000000000000004 (float sucks)
+🔭 I’m currently working on Decodificate, Sidhant Hyperspace and Rellekk-Z<br><br>🌱 I’m currently re-learning Python, Java, Javascript,PHP<br><br>💥 My Open Source Project PANEL, is doing well! Start Contributing!<br><br>🤝 I’m looking for help with Rellekk-Z and Go-Cattle (AI Models and OpenCV)<br><br>👨‍💻 All of my projects are available at sarthak-sidhant.github.io<br><br>💬 Ask me about Python, HTML & CSS<br><br>📫 How to reach me <br>- E-mail: sarthaksidhantisopolice@gmail.com <br>- Discord: Sarthak Sidhant#4374 (Currently Terminated) <br><br>⚡ Fun fact: 0.2 + 0.1 = 0.30000000000000004 (float sucks)
 
 
 ## 🌐 Socials:
