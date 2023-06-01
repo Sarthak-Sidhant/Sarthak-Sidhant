@@ -33,16 +33,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sarthak-sidhant&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=lufiutvjasp1w4u34q8ghpobq)
-
-### Misc 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lufiutvjasp1w4u34q8ghpobq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=lufiutvjasp1w4u34q8ghpobq&redirect=true)
-![](https://github-contributor-stats.vercel.app/api?username=sarthak-sidhant&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sarthak-sidhant&label=Profile%20views&color=181818&style=for-the-badge" alt="sarthak-sidhant" />&nbsp; &nbsp; &nbsp; &nbsp; 
-<a href="https://twitter.com/sidhant_sarthak" target="blank"><img src="https://img.shields.io/twitter/follow/sidhant_sarthak?logo=twitter&style=for-the-badge" alt="sidhant_sarthak" /></a>
-</p>
 
 <h3 align='center'>Show some &nbsp;❤️&nbsp; by starring some of the repositories! </h3> 
 
