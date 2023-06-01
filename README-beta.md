@@ -1,5 +1,22 @@
+<h1 align="center">Hey Everyone! <img alt="wave" src="https://emojis.slackmojis.com/emojis/images/1588177020/8809/wave_hello.gif?1588177020" width="35">I'm Sarthak Sidhant!</h1>
+
+<h3 id="motd" align="center"> Comitted To Technology. Driven By Passion.</h3>
+<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&duration=3000&pause=2000&center=true&width=800&lines=Ruby+is+hard+and+nothing+changes+the+fact+that+it's+useless;Hello!+I+am+an+Amateur+Programmer%2C+And+I+hope+you+have+a+good+day.;How's+Your+Day+Been%3F+You're+A+Wonderful+Person!;Python+is+easy%2C+and+If+You+Can't+Learn+It%2C+Maybe+You're+Dumb;Javascript+And+Java+Are+Just+Two+Different+Things+Sharing+The+Same+Name.;I+feel+like+i've+seen+you+somewhere!;Life's+Too+Short+To+Code+in+Java+Man;%F0%9F%A4%93+public+static+void+main(String%5B%5D+args)+%F0%9F%A4%A1;imagine+defining+a+class+to+print+hello+world;I+wish+I+was+as+smart+as+you%2C+I+am+not+really.;How's+Life%3F+Oh+Shoot+I+Forgot+You+Don't+Have+Any;Why+You+Randomly+Viewing+this%3F+Was+You+Persuaded+by+me%3F" alt="Typing SVG" /></a></div>
+
+<img align="right" height="250px" alt="GIF" src="https://api.daily.dev/devcards/0e0b7af7be26441b8299bd449ee5f8dd.png?r=zbt" padding="5px" />
 # 💫 About Me:
 🔭 I’m currently working on Decodificate, Sidhant Hyperspace and Rellekk-Z<br><br>🌱 I’m currently re-learning Python, Java, Javascript,PHP<br><br>💥 My Open Source Project PANEL, is doing well! Start Contributing!<br><br>🤝 I’m looking for help with Rellekk-Z and Go-Cattle (AI Models and OpenCV)<br><br>👨‍💻 All of my projects are available at sarthak-sidhant.github.io<br><br>💬 Ask me about Python, HTML & CSS<br><br>📫 How to reach me <br>- E-mail: sarthaksidhantisopolice@gmail.com <br>- Discord: Sarthak Sidhant#4374 (Currently Terminated) <br><br>⚡ Fun fact: 0.2 + 0.1 = 0.30000000000000004 (float sucks)
+
+### Blogs posts
+#### All My Blogs are Available at: https://github.com/sarthak-sidhant/blog or https://sarthaksidhant.me/blog/
+ 
+#### My Hashnode Blogs are available at https://blog.sarthaksidhant.me
+<!-- BLOG-POST-LIST:START -->
+- How to Create A Website for free - https://blog.sarthaksidhant.me/webdev
+- Launching Sidhant Hyperspace - https://sarthaksidhant.me/blog/sidhant-hyperspace
+- My Experiences With Cock n Balls - https://sarthaksidhant.me/blog/my-experiences-with-cock-n-balls
+- Python Advanced Guide For Beginners (v2) - https://sarthaksidhant.me/py
+<!-- BLOG-POST-LIST:END -->
 
 
 ## 🌐 Socials:
@@ -11,21 +28,23 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=sarthak-sidhant&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sarthak-sidhant&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-sidhant&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![]<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-sidhant&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sarthak-sidhant&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=sidhant_sarthak)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=lufiutvjasp1w4u34q8ghpobq)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
+### Misc 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=lufiutvjasp1w4u34q8ghpobq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=lufiutvjasp1w4u34q8ghpobq&redirect=true)
 ![](https://github-contributor-stats.vercel.app/api?username=sarthak-sidhant&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=sarthak-sidhant&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sarthak-sidhant&label=Profile%20views&color=181818&style=for-the-badge" alt="sarthak-sidhant" />&nbsp; &nbsp; &nbsp; &nbsp; 
+<a href="https://twitter.com/sidhant_sarthak" target="blank"><img src="https://img.shields.io/twitter/follow/sidhant_sarthak?logo=twitter&style=for-the-badge" alt="sidhant_sarthak" /></a>
+</p>
+
+<h3 align='center'>Show some &nbsp;❤️&nbsp; by starring some of the repositories! </h3> 
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) ;) Thanks GPRM -->
