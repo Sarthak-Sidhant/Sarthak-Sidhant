@@ -5,7 +5,13 @@
 
 <img align="right" height="250px" alt="GIF" src="https://api.daily.dev/devcards/0e0b7af7be26441b8299bd449ee5f8dd.png?r=zbt" padding="5px" />
 <h2> 💫 About Me: </h2>
-🔭 I’m currently working on Decodificate, Sidhant Hyperspace and Rellekk-Z<br><br>🌱 I’m currently re-learning Python, Java, Javascript,PHP<br><br>💥 My Open Source Project PANEL, is doing well! Start Contributing!<br><br>🤝 I’m looking for help with Rellekk-Z and Go-Cattle (AI Models and OpenCV)<br><br>👨‍💻 All of my projects are available at sarthak-sidhant.github.io<br><br>💬 Ask me about Python, HTML & CSS<br><br>📫 How to reach me <br>- E-mail: sarthaksidhantisopolice@gmail.com <br>- Discord: Sarthak Sidhant#4374 (Currently Terminated) <br><br>⚡ Fun fact: 0.2 + 0.1 = 0.30000000000000004 (float sucks)
+- 🔭 I’m currently working on Decodificate, Sidhant Hyperspace and Rellekk-Z<br><br>
+- 🌱 I’m currently re-learning Python, Java, Javascript,PHP<br><br>
+- 💥 My Open Source Project PANEL, is doing well! Start Contributing!<br><br>
+- 🤝 I’m looking for help with Rellekk-Z and Go-Cattle (AI Models and OpenCV)<br><br>
+- 👨‍💻 All of my projects are available at sarthak-sidhant.github.io<br><br>
+- 💬 Ask me about Python, HTML & CSS<br><br>
+- 📫 How to reach me <br>- E-mail: sarthaksidhantisopolice@gmail.com <br>- Discord: Sarthak Sidhant#4374 (Currently Terminated) <br><br>⚡ Fun fact: 0.2 + 0.1 = 0.30000000000000004 (float sucks)
 
 ### Blogs posts
 #### All My Blogs are Available at: https://github.com/sarthak-sidhant/blog or https://sarthaksidhant.me/blog/
