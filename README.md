@@ -4,7 +4,7 @@
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=300&duration=3000&pause=2000&center=true&width=800&lines=Ruby+is+hard+and+nothing+changes+the+fact+that+it's+useless;Hello!+I+am+an+Amateur+Programmer%2C+And+I+hope+you+have+a+good+day.;How's+Your+Day+Been%3F+You're+A+Wonderful+Person!;Python+is+easy%2C+and+If+You+Can't+Learn+It%2C+Maybe+You're+Dumb;Javascript+And+Java+Are+Just+Two+Different+Things+Sharing+The+Same+Name.;I+feel+like+i've+seen+you+somewhere!;Life's+Too+Short+To+Code+in+Java+Man;%F0%9F%A4%93+public+static+void+main(String%5B%5D+args)+%F0%9F%A4%A1;imagine+defining+a+class+to+print+hello+world;I+wish+I+was+as+smart+as+you%2C+I+am+not+really.;How's+Life%3F+Oh+Shoot+I+Forgot+You+Don't+Have+Any;Why+You+Randomly+Viewing+this%3F+Was+You+Persuaded+by+me%3F" alt="Typing SVG" /></a></div>
 
 <img align="right" height="250px" alt="GIF" src="https://api.daily.dev/devcards/0e0b7af7be26441b8299bd449ee5f8dd.png?r=zbt" padding="5px" />
-# 💫 About Me:
+<h2> 💫 About Me: </h2>
 🔭 I’m currently working on Decodificate, Sidhant Hyperspace and Rellekk-Z<br><br>🌱 I’m currently re-learning Python, Java, Javascript,PHP<br><br>💥 My Open Source Project PANEL, is doing well! Start Contributing!<br><br>🤝 I’m looking for help with Rellekk-Z and Go-Cattle (AI Models and OpenCV)<br><br>👨‍💻 All of my projects are available at sarthak-sidhant.github.io<br><br>💬 Ask me about Python, HTML & CSS<br><br>📫 How to reach me <br>- E-mail: sarthaksidhantisopolice@gmail.com <br>- Discord: Sarthak Sidhant#4374 (Currently Terminated) <br><br>⚡ Fun fact: 0.2 + 0.1 = 0.30000000000000004 (float sucks)
 
 ### Blogs posts
