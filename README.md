@@ -33,7 +33,7 @@
 
 # 📊 GitHub Stats:
 <img src="https://github-readme-stats.vercel.app/api?username=sarthak-sidhant&theme=radical&hide_border=false&include_all_commits=true&count_private=true" width="49%" height="50%" float="left"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-sidhant&theme=radical&hide_border=false" width="49%" height="50%" float="right"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sarthak-sidhant&theme=radical&hide_border=false" width="49%" height="50%"/>
 <img src="(https://github-readme-stats.vercel.app/api/top-langs/?username=sarthak-sidhant&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="50%" height="50%" align="center"/>
 
 
