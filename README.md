@@ -14,14 +14,14 @@
 - 📫 How to reach me <br>- E-mail: sarthaksidhantisopolice@gmail.com <br>- Discord: Sarthak Sidhant#4374 (Currently Terminated) <br><br>⚡ Fun fact: 0.2 + 0.1 = 0.30000000000000004 (float sucks)
 
 ### Blogs posts
-#### All My Blogs are Available at: https://github.com/sarthak-sidhant/blog or https://sarthaksidhant.me/blog/
+#### All My Blogs are Available at: https://github.com/sarthak-sidhant/blog or https://sarthaksidhant.com/blog/
  
-#### My Hashnode Blogs are available at https://blog.sarthaksidhant.me
+#### My Hashnode Blogs are available at https://blog.sarthaksidhant.com
 <!-- BLOG-POST-LIST:START -->
-- How to Create A Website for free - https://blog.sarthaksidhant.me/webdev
-- Launching Sidhant Hyperspace - https://sarthaksidhant.me/blog/sidhant-hyperspace
-- My Experiences With Cock n Balls - https://sarthaksidhant.me/blog/my-experiences-with-cock-n-balls
-- Python Advanced Guide For Beginners (v2) - https://sarthaksidhant.me/py
+- How to Create A Website for free - https://blog.sarthaksidhant.com/webdev
+- Launching Sidhant Hyperspace - https://sarthaksidhant.com/blog/sidhant-hyperspace
+- My Experiences With Cock n Balls - https://sarthaksidhant.com/blog/my-experiences-with-cock-n-balls
+- Python Advanced Guide For Beginners (v2) - https://sarthaksidhant.com/py
 <!-- BLOG-POST-LIST:END -->
 
 
