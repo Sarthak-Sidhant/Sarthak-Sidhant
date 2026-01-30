@@ -3,14 +3,15 @@
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&duration=3000&pause=1500&color=F7F7F7¢er=true&width=800&lines=i+code+because+i'm+obsessed+with+my+own+ideas.;my+code+is+as+confused+as+i+am...but+it+works.;i+was+raised+by+the+internet.+blame+it.;humor+is+my+coping+mechanism.+/jk" alt="Typing SVG" /></a>
 </div>
-I'm a tech nerd who loves tinkering and grokking. My dream is to create software that impacts people and hardware that impacts cows (positively, of course) MOOOOOOOO.
+I'm a person that loves tinkering and grokking. My dream is to create software that impacts people and hardware that impacts cows (positively, of course) moo.
 
-I'm basically just a collection of impulses. I build things because I feel the need to, for me. Someone smart would call it passion, I call it obsession. My code is not always readable, but it works because it's as confused as I am.
+I'm basically just a collection of impulses. I build things because I feel the need to, for me. some may call it passion, I call it obsession. 
+My code is not always readable, or smart, or intelligent but it works because it's as confused as I am.
 
 I function on functionality while being chaotic
 
 ### My Top Projects
-Some things i've built. hmu to collab, i get lonely.
+Some things i've built. hmu to collab.
 
 <div align="center">
 
@@ -26,7 +27,7 @@ Some things i've built. hmu to collab, i get lonely.
 
 ---
 
-### My So-Called "Skills"
+### My "Skills"
 
 **Things I Actually Use:**
 <p align="center">
@@ -62,7 +63,7 @@ Some things i've built. hmu to collab, i get lonely.
 
 <details>
   <summary align="center">
-   <h3>Stats and Trophies (if you're into that)</h3>
+   <h3>Stats and Trophies</h3>
   </summary>
 <br>
 <p align="center">
