@@ -1,30 +1,5 @@
 ### hey, i'm sarthak sidhant.
-
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&duration=3000&pause=1500&color=F7F7F7¢er=true&width=800&lines=i+code+because+i'm+obsessed+with+my+own+ideas.;my+code+is+as+confused+as+i+am...but+it+works.;i+was+raised+by+the+internet.+blame+it.;humor+is+my+coping+mechanism.+/jk" alt="Typing SVG" /></a>
-</div>
-I'm a person that loves tinkering and grokking. My dream is to create software that impacts people and hardware that impacts cows (positively, of course) moo.
-
-I'm basically just a collection of impulses. I build things because I feel the need to, for me. some may call it passion, I call it obsession. 
-My code is not always readable, or smart, or intelligent but it works because it's as confused as I am.
-
-I function on functionality while being chaotic
-
-### My Top Projects
-Some things i've built. hmu to collab.
-
-<div align="center">
-
-| Project | Description | Link |
-| :--- | :--- | :---: |
-| **s1d.me** | My personal hub and URL shortener. Built with Python, Flask, and a prayer. Will be more, later. | <a href="https://s1d.me" target="_blank">**Visit s1d.me**</a> |
-| **redstalk** | Stalking people on Reddit for analysis, but automated with Gemini. Saves you from endless scrolling. | <a href="https://sarthaksidhant.com/redstalk" target="_blank">**Check it out here**</a> |
-| **sofusdela** | Uncovering a school's data exposure. A cautionary tale. Read it. | <a href="https://sofusdela.sarthaksidhant.com" target="_blank">read **s.o.f.u.s.d.e.l.a.** </a> |
-| **go-cattle**| An all-encompassing platform for cows with hardware and AI to detect diseases. Approved by a real vet. | <a href="https://github.com/go-cattle/cow" target="_blank">**View repo**</a> |
-
-
-</div>
-
+soon.. more coming soon.
 ---
 
 ### My "Skills"
