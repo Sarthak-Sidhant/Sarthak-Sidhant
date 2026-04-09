@@ -1,5 +1,10 @@
 ### hey, i'm sarthak sidhant.
-soon.. more coming soon.
+i'm working on darshi
+i'm working on myself
+i'm making the world a better place
+
+<details>
+    soon.. more coming soon.
 ---
 
 ### My "Skills"
@@ -36,7 +41,6 @@ soon.. more coming soon.
 <a href="https://linkedin.com/in/sarthaksidhant" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-<details>
   <summary align="center">
    <h3>Stats and Trophies</h3>
   </summary>
