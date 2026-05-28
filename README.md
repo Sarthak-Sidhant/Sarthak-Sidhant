@@ -58,5 +58,3 @@ i'm making the world a better place
     <img src="https://github-profile-trophy.vercel.app/?username=sarthak-sidhant&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Sarthak's GitHub Trophies"/>
 </p>
 </details>
-
-<h3 align='center'>Show some  ❤️  by starring some of the repositories. It feeds my ego.</h3>
